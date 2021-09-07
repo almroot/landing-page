@@ -1,0 +1,9 @@
+/*
+Imports the necessary stylesheets
+*/
+
+/* CSS Reset */
+@import url("reset.css");
+
+/* Application Specific Styles */
+@import url("application.css");
